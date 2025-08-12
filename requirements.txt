@@ -1,0 +1,16 @@
+langchain
+langchain-groq
+python-dotenv
+requests
+
+
+langchain-tavily
+streamlit
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+python-docx
+faiss-cpu
+pyyaml
+
